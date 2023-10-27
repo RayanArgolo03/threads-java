@@ -28,7 +28,7 @@ Este projeto consiste em duas classes principais:
 
 - Este projeto foi desenvolvido em Java e requer um ambiente Java para ser executado.
 
-## Conteudos Aprendidos
+## Conhecimentos adquiridos
 - Threads com programação concorrente
 - Optional para prevenção de nullabilidades
 - Estrutura de dados Fila (Queue)
